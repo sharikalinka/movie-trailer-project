@@ -22,7 +22,7 @@ main_page_head = '''
 </head>
 '''
 
-# Main page layout and title bar. Inclueds YouTube movie trailer modal
+# Main page layout and title bar. Includes YouTube movie trailer modal
 main_page_content = '''
 <body>
 <!-- modal for video pop -->
