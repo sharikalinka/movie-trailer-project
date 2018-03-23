@@ -8,7 +8,7 @@ declare Shari's favorite movies, with 4 arguments each:
 3 poster_url (poster image url)
 4 trailer_url (youtube trailer url)
 """
-harry_potter_philosopher_stone = media.Movie(
+harry_potter_philosophers_stone = media.Movie(
     "Harry Potter and the Philosophers Stone",
     2001,
     "http://bit.ly/2FOMZ6f",
