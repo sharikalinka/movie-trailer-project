@@ -27,10 +27,10 @@ poster_url = "http://bit.ly/2FIKwy3"
 trailer = "https://www.youtube.com/watch?v=r8_iuixRa_Y"
 
 # Create Movie object
-harry_potter_chamber_of_secrets = media.Movie(title, year, poster_url, trailer_url)
+chamber = media.Movie(title, year, poster_url, trailer_url)
 
 # Create movie trailer page with array of one movie
-fresh_tomatoes.open_movies_page([harry_potter_chamber_of_secrets])
+fresh_tomatoes.open_movies_page([chamber])
 
 ```
 
@@ -76,7 +76,7 @@ poster_url = "http://bit.ly/2FIKwy3"
 trailer = "https://www.youtube.com/watch?v=r8_iuixRa_Y"
 
 # Create Movie Object
-harry_potter_chamber_of_secrets = media.Movie(title, year, poster_url, trailer_url)
+chamber = media.Movie(title, year, poster_url, trailer_url)
 ```
 
 ###### movie.title
